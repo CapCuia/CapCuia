@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  
+![5eeea355389655 59822ff824b72](https://github.com/CapCuia/CapCuia/assets/152460091/8e224bf9-ef4f-4f53-9fac-a212ae85e792)
 
 <!--
 **CapCuia/CapCuia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
